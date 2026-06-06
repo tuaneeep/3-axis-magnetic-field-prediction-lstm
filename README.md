@@ -1,4 +1,4 @@
-# 3-Axis Magnetic Field Dynamics Prediction using LSTM Networks
+# 3-Axis Magnetic Field Dynamics Prediction using LSTM
 
 ## Overview
 
@@ -159,11 +159,11 @@ Output:
 ├── requirements.txt
 │
 ├── firmware/
-│   └── esp32_source_code
+│   └── main.cpp
 │
 ├── data/
 │   ├── raw/
-│   └── processed/
+│   └── processed/hall_sensor_dataset.csv
 │
 ├── model/
 │   ├── train_lstm.py
@@ -171,12 +171,12 @@ Output:
 │   └── saved_model/
 │
 ├── results/
-│   ├── training_loss.png
+│   ├── loss_chart.png
 │   ├── prediction_results.png
 │   └── evaluation_metrics.txt
 │
 └── docs/
-    └── project_report.pdf
+    └── Bao_cao_Hall_Sensor.pdf
 ```
 
 ---
