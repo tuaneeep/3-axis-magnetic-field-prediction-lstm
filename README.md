@@ -241,9 +241,3 @@ The architecture achieved high accuracy tracking complex dynamic waveforms under
 * **Predictive Maintenance:** Detecting turn-to-turn short circuits, dynamic eccentricities, and bearing wear via signature magnetic distortion forecasting.
 * **Robotics Perception and Navigation:** Mapping localized structural stray field gradients for indoor robot positioning systems.
 * **Industrial Automated Inspection:** Real-time sorting and magnetic inspection of moving ferromagnetic parts on high-speed assembly lines.
-
----
-
-## License
-
-This project is released under the MIT License - for educational and research development purposes.
